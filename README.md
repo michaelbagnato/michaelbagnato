@@ -27,6 +27,6 @@ and also have experience with Docker, DevOps and test automation.
 ### What I'm learning
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbagnato&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbagnato&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
