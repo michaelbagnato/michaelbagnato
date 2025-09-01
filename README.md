@@ -14,7 +14,7 @@ and also have experience with Docker, DevOps and test automation.
 [![My Skills](https://skillicons.dev/icons?i=dotnet,arch,aws,c,docker,neovim,postgres,react,ts,vscode)](https://skillicons.dev)
 
 ### What I'm learning
-[![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,go)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbagnato&layout=donut&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
