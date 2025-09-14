@@ -19,3 +19,5 @@ and also have experience with Docker, DevOps and test automation.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbagnato&layout=donut&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## My GPG Key
+3880EB7094EE049160439542FF32C17FE90F58FF
